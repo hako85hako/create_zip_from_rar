@@ -1,0 +1,7 @@
+sys.path.append('/Library/Python/3.7/site-packages/rarfile-4.0-py2.7.egg')
+
+/Library/Python/3.7/site-packages/rarfile-4.0-py2.7.egg
+
+
+
+export PYTHONPATH="/Library/Python/3.7/site-packages/rarfile-4.0-py2.7.egg:$PYTHONPATH"
